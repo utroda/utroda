@@ -11,4 +11,5 @@ Previously at Status Controls, where I lead a team in building a white label vue
 
 - Website & Blog: [https://utroda.deno.dev](https://utroda.deno.dev)
 - LinkedIn: [My Profile](https://www.linkedin.com/in/jared-west-b95264a4/)
+- Dribbble: [My UI/UX Work](https://dribbble.com/utroda)
 
