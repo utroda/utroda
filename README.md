@@ -4,7 +4,7 @@ A design driven senior front end developer working with Javascript & VueJs, base
 
 Formally of JumpCloud, building their internal design system and component framework [Stratus](https://design.jumpcloud.io).
 
-Previously at Status Controls, where I lead a team in building a white label vue application that is currently used by the likes of Nike, Netflix, Climate Pledge Arena and private individuals for their home and office automation needs.
+Previously at Status Controls, where I lead a team in building a white label vue application that is currently used by the likes of Nike, Netflix, Climate Pledge Arena and private individuals for their home and building automation needs.
 
 
 ### Reach Out
