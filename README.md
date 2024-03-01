@@ -1,15 +1,17 @@
-# Hi, I'm Jared.
+<img src="https://skillicons.dev/icons?i=js,vue,nodejs,nuxt,vite,prisma,neovim" />
 
-A design driven senior front end developer working with Javascript & VueJs, based in the heart of the pacific northwest.
+----
 
-Formally of JumpCloud, building their internal design system and component framework [Stratus](https://design.jumpcloud.io).
+A design-driven Senior Front End Developer with over 10 years of experience in the software industry. Specializing in Javascript and Vue.js, I have a passion for crafting seamless user experiences.
 
-Previously at Status Controls, where I lead a team in building a white label vue application that is currently used by the likes of Nike, Netflix, Climate Pledge Arena and private individuals for their home and building automation needs.
+Formerly with JumpCloud, I contributed to building their internal design system and component framework, Stratus. Prior to that, at Status Controls, I led a team in developing a white-label Vue application utilized by prominent companies like Nike, Netflix, and Climate Pledge Arena, as well as individual users for their home and building automation needs.
 
+Based in the heart of the Pacific Northwest, I thrive on collaborating with distributed teams to bring innovative solutions to life.
 
-### Reach Out
+----
+#### Other Sites
 
-- LinkedIn: [My Profile](https://www.linkedin.com/in/jared-west-b95264a4/)
-- CodePen: [My Playground](https://codepen.io/utroda)
-- Dribbble: [My UI/UX Work](https://dribbble.com/utroda)
+[LinkedIn](https://www.linkedin.com/in/jared-west-b95264a4/) |
+[My Blog](https://outwest.dev) |
+[Dribble](https://dribbble.com/utroda) 
 
